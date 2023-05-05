@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63db96a4f509b7d48a37941cc9084454, type: 3}
+  m_Name: RoundMouthPot
+  m_EditorClassIdentifier: 
+  itemName: "\u5706\u5634\u9676\u74F7"
+  itemNumber: 1
+  itemInfo: "\u5706\u5634\u9676\u74F7\u5236\u4F5C\u96BE\u5EA6\u9AD8\uFF0C\u9676\u74F7\u6709\u7740\u5706\u5F62\u74F6\u53E3\uFF0C\u5916\u89C2\u5947\u7279\uFF0C\u53EF\u7528\u4E8E\u6536\u85CF\uFF0C\u4E5F\u53EF\u7528\u4E8E\u5B58\u53D6\u8D35\u91CD\u4E4B\u7269\uFF01"
+  itemImage: {fileID: 2800000, guid: 74e15bfb3adb55f4da3ebd0c5e2f1857, type: 3}
+  Number: 21
+  check: 0
+  merge: 0
+  sell: 0
+  discard: 1

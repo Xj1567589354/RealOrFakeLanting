@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63db96a4f509b7d48a37941cc9084454, type: 3}
+  m_Name: Chicken
+  m_EditorClassIdentifier: 
+  itemName: "\u5BB6\u9E21"
+  itemNumber: 1
+  itemInfo: "\u5BB6\u9E21\u662F\u4EBA\u9972\u517B\u7684\u9E21\uFF0C\u5B83\u7684\u9E21\u8089\u662F\u5E38\u89C1\u4E4B\u7269\uFF0C\u4F46\u662F\u975E\u5E38\u7F8E\u5473\uFF0C\u53EF\u7528\u4E8E\u9971\u8179\uFF0C\u6216\u8005\u51FA\u552E\u6362\u53D6\u5C11\u91CF\u94F6\u4E24\uFF01"
+  itemImage: {fileID: 2800000, guid: 2b3ca32bca239f14688b1e135c6cd255, type: 3}
+  Number: 6
+  check: 0
+  merge: 0
+  sell: 1
+  discard: 1

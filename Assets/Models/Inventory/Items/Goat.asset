@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63db96a4f509b7d48a37941cc9084454, type: 3}
+  m_Name: Goat
+  m_EditorClassIdentifier: 
+  itemName: "\u91CE\u751F\u5C71\u7F8A"
+  itemNumber: 1
+  itemInfo: "\u91CE\u751F\u5C71\u7F8A\u5341\u5206\u51F6\u731B\uFF0C\u6355\u83B7\u65F6\u6700\u597D\u8D81\u5B83\u4EEC\u4E0D\u6CE8\u610F\u7684\u65F6\u5019\uFF0C\u91CE\u751F\u5C71\u7F8A\u7684\u8089\u5341\u5206\u9C9C\u7F8E\uFF0C\u662F\u4E00\u79CD\u7F8E\u5473\u4F73\u80B4\uFF0C\u53EF\u716E\u719F\u98DF\u7528\uFF0C\u4E5F\u53EF\u51FA\u552E\u6362\u53D6\u94F6\u4E24\uFF01"
+  itemImage: {fileID: 2800000, guid: c3f8d47ceaccafd45a0987f03f4aa5e9, type: 3}
+  Number: 12
+  check: 0
+  merge: 0
+  sell: 1
+  discard: 1

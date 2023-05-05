@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63db96a4f509b7d48a37941cc9084454, type: 3}
+  m_Name: Flase_Lanting
+  m_EditorClassIdentifier: 
+  itemName: "\u5170\u4EAD\u5E8F\u4E34\u6479\u7248"
+  itemNumber: 1
+  itemInfo: "\u8FD9\u662F\u5510\u592A\u5B97\u5429\u5490\u5BB0\u76F8\u6B66\u5143\u8861\u79D8\u5BC6\u4E34\u6479\u7684\u300A\u5170\u4EAD\u5E8F\u300B\u5B57\u8FF9\uFF0C\u6216\u8BB8\u5510\u592A\u5B97\u5BB3\u6015\u6B66\u5143\u8861\u6CC4\u6F0F\u8FD9\u4E2A\u79D8\u5BC6\uFF0C\u53C8\u6216\u8BB8\u300A\u5170\u4EAD\u5E8F\u300B\u4E34\u6479\u7248\u6D41\u843D\u6C11\u95F4\u6B63\u662F\u5510\u592A\u5B97\u7684\u8BA1\u5212\uFF0C\u624D\u5BFC\u81F4\u6B66\u5143\u8861\u88AB\u79D8\u5BC6\u6740\u5BB3\uFF01\u4ED4\u7EC6\u77A7\u77A7\uFF01\u53EF\u80FD\u8FD9\u5F20\u5047\u7684\u300A\u5170\u4EAD\u5E8F\u300B\u770B\u8D77\u6765\u5E76\u4E0D\u662F\u90A3\u4E48\u7B80\u5355\uFF01"
+  itemImage: {fileID: 2800000, guid: e5144f69274c5524ea0ce6554277e804, type: 3}
+  Number: 24
+  check: 1
+  merge: 0
+  sell: 0
+  discard: 0

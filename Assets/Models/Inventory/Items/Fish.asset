@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63db96a4f509b7d48a37941cc9084454, type: 3}
+  m_Name: Fish
+  m_EditorClassIdentifier: 
+  itemName: "\u8349\u9C7C"
+  itemNumber: 1
+  itemInfo: "\u7EFF\u7AF9\u6797\u7684\u8349\u9C7C\u975E\u5E38\u4E4B\u591A\uFF0C\u5B83\u7684\u9C7C\u8089\u662F\u7F8E\u5473\u4F73\u80B4\uFF0C\u53EF\u5230\u7EFF\u7AF9\u6797\u7684\u4E1C\u6C5F\u6E56\u6355\u6349\uFF0C\u716E\u719F\u53EF\u7528\u4E8E\u98DF\u7528\uFF0C\u4E5F\u53EF\u51FA\u552E\u6362\u53D6\u94F6\u4E24\uFF01"
+  itemImage: {fileID: 2800000, guid: 10b7ec5c4a6c23d4db662d1a2e50ee23, type: 3}
+  Number: 10
+  check: 0
+  merge: 0
+  sell: 1
+  discard: 1

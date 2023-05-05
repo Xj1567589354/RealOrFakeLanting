@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63db96a4f509b7d48a37941cc9084454, type: 3}
+  m_Name: LiHe_Letter
+  m_EditorClassIdentifier: 
+  itemName: "\u674E\u8D3A\u4E66\u4FE1"
+  itemNumber: 1
+  itemInfo: "\u8FD9\u662F\u674E\u8D3A\u4EB2\u7B14\u5199\u7684\u4E66\u4FE1\uFF0C\u4FE1\u4E2D\u53EF\u80FD\u9690\u542B\u7740\u674E\u8D3A\u6240\u53D1\u73B0\u7684\u79D8\u5BC6\uFF01"
+  itemImage: {fileID: 2800000, guid: 719c87d5f47667e43a3a5217d0bcf510, type: 3}
+  Number: 2
+  check: 1
+  merge: 0
+  sell: 0
+  discard: 0

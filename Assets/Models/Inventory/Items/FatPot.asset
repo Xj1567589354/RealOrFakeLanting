@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63db96a4f509b7d48a37941cc9084454, type: 3}
+  m_Name: FatPot
+  m_EditorClassIdentifier: 
+  itemName: "\u5706\u5F62\u9676\u74F7"
+  itemNumber: 1
+  itemInfo: "\u5706\u5F62\u9676\u74F7\u6574\u4F53\u5411\u5916\u51F8\u51FA\uFF0C\u53EF\u5BB9\u7EB3\u5927\u91CF\u6EB6\u5242\uFF01"
+  itemImage: {fileID: 2800000, guid: ff5262c5e7b1ebe4ea8ef61113a2e114, type: 3}
+  Number: 9
+  check: 0
+  merge: 0
+  sell: 0
+  discard: 1

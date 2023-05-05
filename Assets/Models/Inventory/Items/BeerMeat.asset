@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63db96a4f509b7d48a37941cc9084454, type: 3}
+  m_Name: BeerMeat
+  m_EditorClassIdentifier: 
+  itemName: "\u91CE\u751F\u718A"
+  itemNumber: 1
+  itemInfo: "\u91CE\u751F\u718A\u6781\u5176\u51F6\u731B\uFF0C\u4E00\u65E6\u4E0D\u5C0F\u5FC3\u53EF\u80FD\u5C31\u4F1A\u4E22\u6389\u81EA\u5DF1\u6027\u547D\uFF0C\u4F46\u662F\u91CE\u751F\u718A\u7684\u718A\u638C\u662F\u65E0\u4EF7\u4E4B\u5B9D\uFF0C\u957F\u5B89\u57CE\u5C31\u4EC5\u5B58\u4E00\u5934\u91CE\u751F\u718A\uFF0C\u4F20\u95FB\u89C1\u5230\u8FD9\u5934\u91CE\u751F\u718A\u7684\u4EBA\u90FD\u4E0D\u5B58\u5728\u4E86\uFF01\u718A\u638C\u53EF\u6362\u53D6\u5B9D\u7269\uFF01"
+  itemImage: {fileID: 2800000, guid: 751b1af29bf698e4aa1262eabe6ec252, type: 3}
+  Number: 4
+  check: 0
+  merge: 0
+  sell: 1
+  discard: 1

@@ -1,0 +1,643 @@
+fileFormatVersion: 2
+guid: 1c002395558226f4fa1ab50a84347681
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: WildRabbit_Head_JawEndSHJnt
+  - first:
+      1: 100002
+    second: WildRabbit_Head_JawSHJnt
+  - first:
+      1: 100004
+    second: WildRabbit_Head_TopSHJnt
+  - first:
+      1: 100006
+    second: WildRabbit_l_Clavicle_01_01SHJnt
+  - first:
+      1: 100008
+    second: WildRabbit_l_Ears_01_01SHJnt
+  - first:
+      1: 100010
+    second: WildRabbit_l_Ears_01_02SHJnt
+  - first:
+      1: 100012
+    second: WildRabbit_l_Ears_01_03SHJnt
+  - first:
+      1: 100014
+    second: WildRabbit_l_FrontLeg_AnkleSHJnt
+  - first:
+      1: 100016
+    second: WildRabbit_l_FrontLeg_BallSHJnt
+  - first:
+      1: 100018
+    second: WildRabbit_l_FrontLeg_HipSHJnt
+  - first:
+      1: 100020
+    second: WildRabbit_l_FrontLeg_KneeSHJnt
+  - first:
+      1: 100022
+    second: WildRabbit_l_FrontLeg_ToeSHJnt
+  - first:
+      1: 100024
+    second: WildRabbit_l_HindLeg_AnkleSHJnt
+  - first:
+      1: 100026
+    second: WildRabbit_l_HindLeg_BallSHJnt
+  - first:
+      1: 100028
+    second: WildRabbit_l_HindLeg_HipSHJnt
+  - first:
+      1: 100030
+    second: WildRabbit_l_HindLeg_KneeSHJnt
+  - first:
+      1: 100032
+    second: WildRabbit_l_HindLeg_ToeSHJnt
+  - first:
+      1: 100034
+    second: WildRabbit_MAINSHJnt
+  - first:
+      1: 100036
+    second: WildRabbit_Neck_01SHJnt
+  - first:
+      1: 100038
+    second: WildRabbit_Neck_02SHJnt
+  - first:
+      1: 100040
+    second: WildRabbit_Neck_TopSHJnt
+  - first:
+      1: 100042
+    second: WildRabbit_Nose_01_01SHJnt
+  - first:
+      1: 100044
+    second: WildRabbit_Nose_01_02SHJnt
+  - first:
+      1: 100046
+    second: WildRabbit_r_Clavicle_01_01SHJnt
+  - first:
+      1: 100048
+    second: WildRabbit_r_Ears_01_01SHJnt
+  - first:
+      1: 100050
+    second: WildRabbit_r_Ears_01_02SHJnt
+  - first:
+      1: 100052
+    second: WildRabbit_r_Ears_01_03SHJnt
+  - first:
+      1: 100054
+    second: WildRabbit_r_FrontLeg_AnkleSHJnt
+  - first:
+      1: 100056
+    second: WildRabbit_r_FrontLeg_BallSHJnt
+  - first:
+      1: 100058
+    second: WildRabbit_r_FrontLeg_HipSHJnt
+  - first:
+      1: 100060
+    second: WildRabbit_r_FrontLeg_KneeSHJnt
+  - first:
+      1: 100062
+    second: WildRabbit_r_FrontLeg_ToeSHJnt
+  - first:
+      1: 100064
+    second: WildRabbit_r_HindLeg_AnkleSHJnt
+  - first:
+      1: 100066
+    second: WildRabbit_r_HindLeg_BallSHJnt
+  - first:
+      1: 100068
+    second: WildRabbit_r_HindLeg_HipSHJnt
+  - first:
+      1: 100070
+    second: WildRabbit_r_HindLeg_KneeSHJnt
+  - first:
+      1: 100072
+    second: WildRabbit_r_HindLeg_ToeSHJnt
+  - first:
+      1: 100074
+    second: WildRabbit_ROOTSHJnt
+  - first:
+      1: 100076
+    second: WildRabbit_Spine_01SHJnt
+  - first:
+      1: 100078
+    second: WildRabbit_Spine_02SHJnt
+  - first:
+      1: 100080
+    second: WildRabbit_Spine_03SHJnt
+  - first:
+      1: 100082
+    second: WildRabbit_Spine_04SHJnt
+  - first:
+      1: 100084
+    second: WildRabbit_Spine_TopSHJnt
+  - first:
+      1: 100086
+    second: WildRabbit_Tail_01_01SHJnt
+  - first:
+      1: 100088
+    second: WildRabbit_Tail_01_02SHJnt
+  - first:
+      1: 100090
+    second: //RootNode
+  - first:
+      4: 400000
+    second: WildRabbit_Head_JawEndSHJnt
+  - first:
+      4: 400002
+    second: WildRabbit_Head_JawSHJnt
+  - first:
+      4: 400004
+    second: WildRabbit_Head_TopSHJnt
+  - first:
+      4: 400006
+    second: WildRabbit_l_Clavicle_01_01SHJnt
+  - first:
+      4: 400008
+    second: WildRabbit_l_Ears_01_01SHJnt
+  - first:
+      4: 400010
+    second: WildRabbit_l_Ears_01_02SHJnt
+  - first:
+      4: 400012
+    second: WildRabbit_l_Ears_01_03SHJnt
+  - first:
+      4: 400014
+    second: WildRabbit_l_FrontLeg_AnkleSHJnt
+  - first:
+      4: 400016
+    second: WildRabbit_l_FrontLeg_BallSHJnt
+  - first:
+      4: 400018
+    second: WildRabbit_l_FrontLeg_HipSHJnt
+  - first:
+      4: 400020
+    second: WildRabbit_l_FrontLeg_KneeSHJnt
+  - first:
+      4: 400022
+    second: WildRabbit_l_FrontLeg_ToeSHJnt
+  - first:
+      4: 400024
+    second: WildRabbit_l_HindLeg_AnkleSHJnt
+  - first:
+      4: 400026
+    second: WildRabbit_l_HindLeg_BallSHJnt
+  - first:
+      4: 400028
+    second: WildRabbit_l_HindLeg_HipSHJnt
+  - first:
+      4: 400030
+    second: WildRabbit_l_HindLeg_KneeSHJnt
+  - first:
+      4: 400032
+    second: WildRabbit_l_HindLeg_ToeSHJnt
+  - first:
+      4: 400034
+    second: WildRabbit_MAINSHJnt
+  - first:
+      4: 400036
+    second: WildRabbit_Neck_01SHJnt
+  - first:
+      4: 400038
+    second: WildRabbit_Neck_02SHJnt
+  - first:
+      4: 400040
+    second: WildRabbit_Neck_TopSHJnt
+  - first:
+      4: 400042
+    second: WildRabbit_Nose_01_01SHJnt
+  - first:
+      4: 400044
+    second: WildRabbit_Nose_01_02SHJnt
+  - first:
+      4: 400046
+    second: WildRabbit_r_Clavicle_01_01SHJnt
+  - first:
+      4: 400048
+    second: WildRabbit_r_Ears_01_01SHJnt
+  - first:
+      4: 400050
+    second: WildRabbit_r_Ears_01_02SHJnt
+  - first:
+      4: 400052
+    second: WildRabbit_r_Ears_01_03SHJnt
+  - first:
+      4: 400054
+    second: WildRabbit_r_FrontLeg_AnkleSHJnt
+  - first:
+      4: 400056
+    second: WildRabbit_r_FrontLeg_BallSHJnt
+  - first:
+      4: 400058
+    second: WildRabbit_r_FrontLeg_HipSHJnt
+  - first:
+      4: 400060
+    second: WildRabbit_r_FrontLeg_KneeSHJnt
+  - first:
+      4: 400062
+    second: WildRabbit_r_FrontLeg_ToeSHJnt
+  - first:
+      4: 400064
+    second: WildRabbit_r_HindLeg_AnkleSHJnt
+  - first:
+      4: 400066
+    second: WildRabbit_r_HindLeg_BallSHJnt
+  - first:
+      4: 400068
+    second: WildRabbit_r_HindLeg_HipSHJnt
+  - first:
+      4: 400070
+    second: WildRabbit_r_HindLeg_KneeSHJnt
+  - first:
+      4: 400072
+    second: WildRabbit_r_HindLeg_ToeSHJnt
+  - first:
+      4: 400074
+    second: WildRabbit_ROOTSHJnt
+  - first:
+      4: 400076
+    second: WildRabbit_Spine_01SHJnt
+  - first:
+      4: 400078
+    second: WildRabbit_Spine_02SHJnt
+  - first:
+      4: 400080
+    second: WildRabbit_Spine_03SHJnt
+  - first:
+      4: 400082
+    second: WildRabbit_Spine_04SHJnt
+  - first:
+      4: 400084
+    second: WildRabbit_Spine_TopSHJnt
+  - first:
+      4: 400086
+    second: WildRabbit_Tail_01_01SHJnt
+  - first:
+      4: 400088
+    second: WildRabbit_Tail_01_02SHJnt
+  - first:
+      4: 400090
+    second: //RootNode
+  - first:
+      74: 7400000
+    second: walk
+  - first:
+      95: 9500000
+    second: //RootNode
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: walk
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.9
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: WildRabbit_Walk(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_MAINSHJnt
+      parentName: WildRabbit_Walk(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_ROOTSHJnt
+      parentName: WildRabbit_MAINSHJnt
+      position: {x: 0, y: 0.1005097, z: -0.020975322}
+      rotation: {x: -0.74017227, y: -0, z: -0, w: 0.6724174}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_Spine_01SHJnt
+      parentName: WildRabbit_ROOTSHJnt
+      position: {x: -4.4303814e-19, y: 0.021489162, z: 0.06010994}
+      rotation: {x: 0.48722687, y: 0.48722687, z: -0.51245487, w: 0.51245487}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_Spine_02SHJnt
+      parentName: WildRabbit_Spine_01SHJnt
+      position: {x: -0.07042102, y: 1.5881514e-17, z: -0.00088893983}
+      rotation: {x: 8.6499335e-17, y: 0.1865447, z: 1.3344094e-16, w: 0.9824465}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_Spine_03SHJnt
+      parentName: WildRabbit_Spine_02SHJnt
+      position: {x: -0.06810685, y: 1.0707143e-17, z: -0.0029888514}
+      rotation: {x: 3.6179527e-17, y: 0.04112246, z: -2.6132935e-17, w: 0.99915415}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_Spine_04SHJnt
+      parentName: WildRabbit_Spine_03SHJnt
+      position: {x: -0.0675629, y: 5.3376766e-18, z: 0.0031186559}
+      rotation: {x: 3.175367e-17, y: 0.04705419, z: -1.3720735e-16, w: 0.99889237}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_Spine_TopSHJnt
+      parentName: WildRabbit_Spine_04SHJnt
+      position: {x: -0.065932386, y: -4.8870723e-21, z: 0.0012513847}
+      rotation: {x: 3.412385e-17, y: 0.011604331, z: 1.4127367e-16, w: 0.9999327}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_l_Clavicle_01_01SHJnt
+      parentName: WildRabbit_Spine_TopSHJnt
+      position: {x: 1.0658141e-16, y: -0.0273039, z: -3.5527136e-17}
+      rotation: {x: 0.10881464, y: -0.10881462, z: 0.4600612, w: 0.8744498}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_l_FrontLeg_HipSHJnt
+      parentName: WildRabbit_l_Clavicle_01_01SHJnt
+      position: {x: -0.041157365, y: -0.053741828, z: 0.028224258}
+      rotation: {x: -0.101745, y: 0.1411079, z: 0.3171311, w: 0.9322899}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_l_FrontLeg_KneeSHJnt
+      parentName: WildRabbit_l_FrontLeg_HipSHJnt
+      position: {x: -0.083849326, y: 1.0658141e-16, z: 1.7763568e-17}
+      rotation: {x: -0.007523114, y: -0.0030876372, z: -0.01222993, w: 0.9998921}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_l_FrontLeg_AnkleSHJnt
+      parentName: WildRabbit_l_FrontLeg_KneeSHJnt
+      position: {x: -0.08837083, y: 3.5527136e-17, z: 1.3322676e-16}
+      rotation: {x: -0.19594117, y: -0.028348356, z: 0.004294615, w: 0.98019636}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_l_FrontLeg_BallSHJnt
+      parentName: WildRabbit_l_FrontLeg_AnkleSHJnt
+      position: {x: -0.026767198, y: -8.881784e-18, z: 0.023111936}
+      rotation: {x: 0.000000044120494, y: 0.7071065, z: -0.00000004412045, w: 0.7071071}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_l_FrontLeg_ToeSHJnt
+      parentName: WildRabbit_l_FrontLeg_BallSHJnt
+      position: {x: -0.04412863, y: 8.881784e-18, z: 3.3528376e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_r_Clavicle_01_01SHJnt
+      parentName: WildRabbit_Spine_TopSHJnt
+      position: {x: -0, y: 0.0273039, z: -3.5527136e-17}
+      rotation: {x: -0.10881478, y: 0.10881467, z: 0.87444973, w: 0.4600615}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_r_FrontLeg_HipSHJnt
+      parentName: WildRabbit_r_Clavicle_01_01SHJnt
+      position: {x: 0.041157365, y: -0.053741828, z: 0.028224258}
+      rotation: {x: -0.14359696, y: 0.09314975, z: 0.93333715, w: 0.31557077}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_r_FrontLeg_KneeSHJnt
+      parentName: WildRabbit_r_FrontLeg_HipSHJnt
+      position: {x: -0.083849326, y: -8.881784e-18, z: -1.7763568e-17}
+      rotation: {x: 0.0070220814, y: -0.0026112013, z: 0.011571897, w: 0.999905}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_r_FrontLeg_AnkleSHJnt
+      parentName: WildRabbit_r_FrontLeg_KneeSHJnt
+      position: {x: -0.08837083, y: 8.881784e-18, z: 3.5527136e-17}
+      rotation: {x: 0.19677185, y: -0.024962457, z: 0.001792735, w: 0.9801299}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_r_FrontLeg_BallSHJnt
+      parentName: WildRabbit_r_FrontLeg_AnkleSHJnt
+      position: {x: -0.026767198, y: -1.7763568e-17, z: 0.023111936}
+      rotation: {x: -0.000000047079872, y: 0.7071065, z: 0.00000004707983, w: 0.7071071}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_r_FrontLeg_ToeSHJnt
+      parentName: WildRabbit_r_FrontLeg_BallSHJnt
+      position: {x: -0.04412863, y: -8.881784e-18, z: 3.6286078e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_Neck_01SHJnt
+      parentName: WildRabbit_Spine_TopSHJnt
+      position: {x: -0.020370414, y: -5.7268733e-18, z: -0.00586411}
+      rotation: {x: -3.914071e-17, y: -0.17056096, z: 9.934257e-17, w: 0.98534715}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_Neck_02SHJnt
+      parentName: WildRabbit_Neck_01SHJnt
+      position: {x: -0.021282697, y: -1.03809694e-17, z: -0.0003509089}
+      rotation: {x: 1.1575523e-17, y: 0.0051162597, z: 1.1095873e-16, w: 0.99998695}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_Neck_TopSHJnt
+      parentName: WildRabbit_Neck_02SHJnt
+      position: {x: -0.021180047, y: 7.7788784e-18, z: 0.0009996432}
+      rotation: {x: -0.000000001377084, y: 0.053364296, z: 0.0000000083592795, w: 0.99857515}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_Head_JawSHJnt
+      parentName: WildRabbit_Neck_TopSHJnt
+      position: {x: -0.07672365, y: -1.4875751e-16, z: 0.02841966}
+      rotation: {x: -0.49400306, y: -0.49400306, z: 0.5059259, w: 0.5059259}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_Head_JawEndSHJnt
+      parentName: WildRabbit_Head_JawSHJnt
+      position: {x: -1.544635e-17, y: -0.0110367285, z: 0.07358045}
+      rotation: {x: 0.7517329, y: 0, z: 0, w: 0.65946776}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_Head_TopSHJnt
+      parentName: WildRabbit_Neck_TopSHJnt
+      position: {x: -0.123391286, y: 1.0848085e-16, z: 0.0054404084}
+      rotation: {x: -3.3306693e-16, y: -2.2204463e-16, z: 0.7071068, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_Nose_01_01SHJnt
+      parentName: WildRabbit_Head_TopSHJnt
+      position: {x: -1.421402e-16, y: 0.014299748, z: 0.0015556675}
+      rotation: {x: -0.47252548, y: 0.52604157, z: -0.47252548, w: 0.52604157}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_Nose_01_02SHJnt
+      parentName: WildRabbit_Nose_01_01SHJnt
+      position: {x: -0.023342228, y: 0.00017632997, z: -8.140022e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_l_Ears_01_01SHJnt
+      parentName: WildRabbit_Head_TopSHJnt
+      position: {x: -0.03385228, y: -0.0932303, z: -0.08673511}
+      rotation: {x: 0.87274045, y: -0.044865664, z: 0.48610672, w: 0.003387464}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_l_Ears_01_02SHJnt
+      parentName: WildRabbit_l_Ears_01_01SHJnt
+      position: {x: -0.055708665, y: -0.0006079051, z: 0.0011464765}
+      rotation: {x: 0.053776056, y: -0.11450923, z: 0.06500818, w: 0.9898332}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_l_Ears_01_03SHJnt
+      parentName: WildRabbit_l_Ears_01_02SHJnt
+      position: {x: -0.053372554, y: 0.002134146, z: -0.0008679605}
+      rotation: {x: -0.002622541, y: -0.04549857, z: 0.0075322287, w: 0.9989326}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_r_Ears_01_01SHJnt
+      parentName: WildRabbit_Head_TopSHJnt
+      position: {x: 0.03385228, y: -0.0932303, z: -0.08673511}
+      rotation: {x: 0.8634824, y: 0.08284012, z: -0.4971304, w: 0.019925509}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_r_Ears_01_02SHJnt
+      parentName: WildRabbit_r_Ears_01_01SHJnt
+      position: {x: 0.055708665, y: -0.0006079051, z: 0.0011464765}
+      rotation: {x: 0.017739983, y: 0.10329686, z: -0.08732001, w: 0.9906515}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_r_Ears_01_03SHJnt
+      parentName: WildRabbit_r_Ears_01_02SHJnt
+      position: {x: 0.053372554, y: 0.002134146, z: -0.0008679605}
+      rotation: {x: -0.002622541, y: 0.04549857, z: -0.0075322287, w: 0.9989326}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_l_HindLeg_HipSHJnt
+      parentName: WildRabbit_ROOTSHJnt
+      position: {x: -0.10882592, y: -0.021148145, z: 0.0007914041}
+      rotation: {x: 0.75023556, y: -0.15424393, z: 0.641729, w: 0.039234996}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_l_HindLeg_KneeSHJnt
+      parentName: WildRabbit_l_HindLeg_HipSHJnt
+      position: {x: -0.091306254, y: 0, z: -1.0658141e-16}
+      rotation: {x: 0.9928598, y: 0.038718786, z: 0.09700753, w: 0.057619624}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_l_HindLeg_AnkleSHJnt
+      parentName: WildRabbit_l_HindLeg_KneeSHJnt
+      position: {x: -0.16108236, y: 1.7763568e-17, z: -1.1546319e-16}
+      rotation: {x: -0.5241084, y: 0.09960939, z: -0.8175276, w: -0.21688034}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_l_HindLeg_BallSHJnt
+      parentName: WildRabbit_l_HindLeg_AnkleSHJnt
+      position: {x: -0.022635663, y: -0.010643713, z: 0.08296789}
+      rotation: {x: 0.000000012931033, y: 0.7071065, z: -0.000000012931021, w: 0.7071071}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_l_HindLeg_ToeSHJnt
+      parentName: WildRabbit_l_HindLeg_BallSHJnt
+      position: {x: -0.0718522, y: -0.000995728, z: 2.9914845e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_r_HindLeg_HipSHJnt
+      parentName: WildRabbit_ROOTSHJnt
+      position: {x: 0.10882592, y: -0.021148145, z: 0.0007914041}
+      rotation: {x: -0.16126266, y: 0.74939686, z: -0.04631563, w: -0.64051056}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_r_HindLeg_KneeSHJnt
+      parentName: WildRabbit_r_HindLeg_HipSHJnt
+      position: {x: -0.091306254, y: -1.7763568e-17, z: 7.105427e-17}
+      rotation: {x: 0.9927658, y: -0.038436197, z: 0.09822496, w: -0.05736311}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_r_HindLeg_AnkleSHJnt
+      parentName: WildRabbit_r_HindLeg_KneeSHJnt
+      position: {x: -0.16108236, y: -1.7763568e-17, z: 1.9539925e-16}
+      rotation: {x: -0.526197, y: -0.11205135, z: -0.8163871, w: 0.20993666}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_r_HindLeg_BallSHJnt
+      parentName: WildRabbit_r_HindLeg_AnkleSHJnt
+      position: {x: -0.022635663, y: 0.010643713, z: 0.08296789}
+      rotation: {x: -0.000000014433915, y: 0.7071064, z: 0.0000000144339, w: 0.7071072}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_r_HindLeg_ToeSHJnt
+      parentName: WildRabbit_r_HindLeg_BallSHJnt
+      position: {x: -0.0718522, y: 0.000995728, z: 5.0574627e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_Tail_01_01SHJnt
+      parentName: WildRabbit_ROOTSHJnt
+      position: {x: -8.760137e-17, y: -0.03987003, z: -0.09893134}
+      rotation: {x: 0.2331603, y: -0.66756, z: -0.2331603, w: 0.66756}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WildRabbit_Tail_01_02SHJnt
+      parentName: WildRabbit_Tail_01_01SHJnt
+      position: {x: -0.0386405, y: 0.01295994, z: -7.194212e-19}
+      rotation: {x: -2.396115e-16, y: -1.0998798e-16, z: -0.11329707, w: 0.99356115}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: WildRabbit_MAINSHJnt
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

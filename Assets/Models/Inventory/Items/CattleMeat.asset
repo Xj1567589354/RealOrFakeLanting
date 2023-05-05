@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63db96a4f509b7d48a37941cc9084454, type: 3}
+  m_Name: CattleMeat
+  m_EditorClassIdentifier: 
+  itemName: "\u5BB6\u725B"
+  itemNumber: 1
+  itemInfo: "\u5BB6\u725B\u7684\u725B\u8089\u662F\u4E0A\u7B49\u8089\u7C7B\uFF0C\u957F\u5B89\u57CE\u5341\u5206\u7A00\u5C11\uFF0C\u7136\u800C\u957F\u5B89\u57CE\u6CA1\u6709\u91CE\u751F\u725B\uFF0C\u53EA\u6709\u5BB6\u9972\u517B\u7684\u725B\uFF0C\u5403\u4E00\u5757\u725B\u8089\u5FC3\u60C5\u4F1A\u5927\u597D\uFF01\u53EF\u7528\u4E8E\u716E\u719F\u98DF\u7528\uFF0C\u4E5F\u53EF\u7528\u4E8E\u51FA\u552E\u6362\u53D6\u94F6\u4E24\uFF01"
+  itemImage: {fileID: 2800000, guid: 94dcfc37825690b488909e287bb926a2, type: 3}
+  Number: 5
+  check: 0
+  merge: 0
+  sell: 1
+  discard: 1
